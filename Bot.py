@@ -5,7 +5,7 @@ import os
 from telegram import Bot
 
 # Load environment variables from Railway
-TELEGRAM_BOT_TOKEN = os.getenv("TELEGRAM_BOT_TOKEN")
+TELEGRAM_BOT_TOKEN = os.getenv("7935064633:AAH2biq7xDHrhfttmIEA4YPzvrMlgXRhFRQ")
 CHAT_ID = os.getenv("CHAT_ID")
 
 # Quiver Quantitative API Endpoint (or use another source)
